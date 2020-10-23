@@ -1,0 +1,59 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["hai","helloi","heya"]
+        },
+        {"tag": "goodbye",
+         "patterns": ["see you","bye bye"]
+        },
+        {"tag": "thanks",
+         "patterns": ["okay thanks","that helps","thanks for reply"]
+        },
+        {"tag": "noanswer",
+         "patterns": ["this is not working","no not working"]
+        },
+        {"tag": "options",
+         "patterns": ["what is your job?","what do you do","how can you help me"]
+        },
+        {"tag": "Password Reset",
+         "patterns": ["password reset issue","my password is not working","i dont remember password","how to change password","I cannot login"]
+        },
+        {"tag": "E-mail id",
+         "patterns": ["skdf@gmail.com","sathvi@yahoo.com","youme@outlook.com"]
+        },
+        
+        {"tag": "Blue Sreen issue",
+         "patterns": ["screen blacked out","my screen went blue","blue screen issue","screen is blue"]
+        },
+        {"tag": "Deleted files",
+         "patterns": ["i dont find my files", "where can i find deleted files"]
+        },
+        {"tag": "Unsaved Document",
+         "patterns": ["i didn't save the document","i closed without saving,what to do?"]
+        },
+        {"tag": "Slow Computer",
+         "patterns": ["computer is slow","computer is working very slow","why is computer slow","how to make computer work fast"]
+        },
+        {"tag": "Unexpected Shut Down",
+         "patterns": ["my computer shut down suddenly","computer shutdown","system shutdown"]
+        },
+        {"tag": "Printing issues",
+         "patterns": ["printer not working","printer is not working","printing is not working"]
+        },
+        {"tag": "Vague",
+         "patterns": ["its not working","something is wrong"]
+        },
+        {"tag": "Virus",
+         "patterns": ["there is virus","how to remove virus","my computer has virus"]
+        },
+        {"tag": "Mouse",
+         "patterns": ["the mouse is not working","mouse cursor not showing","mouse problem"]
+        },
+        {"tag": "USB",
+         "patterns": ["usb is not recognized","pendrive is not recognised","usb not detected"]
+        },
+        {"tag": "Slow Internet",
+         "patterns": ["internet is slow","no internet connection","internet not working"]
+        }
+        
+   ]
+}
